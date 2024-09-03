@@ -12,7 +12,7 @@ This repository contains a collection of educational materials designed to suppo
 - **Presentations**: Slides used during lectures or discussions.
 - **Interactive Activities**: Digital tools and games to engage learners.
 - **Assessments**: Tests, quizzes, and rubrics for evaluating student understanding.
--- **Other Materials**: Some other materials for teaching.
+- **Other Materials**: Some other materials for teaching.
 
 ## Usage
 
